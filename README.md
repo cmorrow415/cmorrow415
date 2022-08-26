@@ -9,7 +9,7 @@
 
 ## we're also working on a number of individual, open-source technologies, toolkits, and frameworks that power its rich network, and that can hopefully be used by others to help idealize my dream of a *modular, social, and collaborative internet*
 
-> ### archaic.
+> ### <a href="https://github.com/palindromei/archaic/">archaic.</a>
 > ###### a modern, lightweight toolkit for HTML and CSS that expands upon the features of Bootstrap and supercharges frontend development, all while making it look nicer, cleaner, and more reminicient of early 2010's web design.
 >
 > ### shoeshine
