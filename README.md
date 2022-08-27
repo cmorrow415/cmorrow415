@@ -5,9 +5,9 @@
 
 ## what i'm working on:
 ### \*wallhop
-##### a real time, ad-free, fully customizable social network, built by me and my good friend @Pixel8edStudios.
+##### a real time, ad-free, fully customizable social network, designed around the human. build a site, add your interests, talk to others.
 
-## we're also working on a number of individual, open-source technologies, toolkits, and frameworks that power its rich network, and that can hopefully be used by others to help idealize my dream of a *modular, social, and collaborative internet*
+## i'm also working on a number of individual, open-source technologies, toolkits, and frameworks that power its rich network, and that can hopefully be used by others to help idealize my dream of a *modular, social, and collaborative internet*
 
 > ### <a href="https://github.com/palindromei/archaic/">archaic.</a>
 > ###### a modern, lightweight toolkit for HTML and CSS that expands upon the features of Bootstrap and supercharges frontend development, all while making it look nicer, cleaner, and more reminicient of early 2010's web design.
