@@ -12,6 +12,9 @@
 > ### <a href="https://github.com/palindromei/archaic/">archaic.</a>
 > ###### a modern, lightweight toolkit for HTML and CSS that expands upon the features of Bootstrap and supercharges frontend development, all while making it look nicer, cleaner, and more reminicient of early 2010's web design.
 >
+> ### markaic.
+> ###### markdown (the easiest way to write code) + archaic (the easiest way to theme it) = markaic, the quickest way to turn plain text into beautiful websites.
+>
 > ### shoeshine
 > ###### a visual site editor based on Packery and Bootstrap, that can be utilized theoretically anywhere, and practically everywhere.
 >
