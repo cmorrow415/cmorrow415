@@ -1,19 +1,20 @@
 # hello, world!
-### my name's christian, i'm a hobbyist and nerd based in new york.
+### my name's christian, i'm a hobbyist and nerd based in new york. <br> i make tools that combat the commercialization of web, and give power back to the netizens. <br> in short, i'm building the *open-source, modular, collaborative internet*
 
 ***
 
 ## what i'm working on:
-### \*wallhop
-##### a real time, ad-free, fully customizable social network, designed around the human. build a site, add your interests, talk to others.
-
-## i'm also working on a number of individual, open-source technologies, toolkits, and frameworks that power its rich network, and that can hopefully be used by others to help idealize my dream of a *modular, social, and collaborative internet*
-
+> ### <a href="https://github.com/palindromei/typesites/">TypeSites</a>
+> ###### typesites turns fully formatted word documents into beautiful, responsive websites.
+>
+>### \*wallhop
+>##### a real time, ad-free, fully customizable social network, designed around the human. build a site, add your interests, talk to others.
+>
 > ### <a href="https://github.com/palindromei/archaic/">archaic.</a>
 > ###### a modern, lightweight toolkit for HTML and CSS that expands upon the features of Bootstrap and supercharges frontend development, all while making it look nicer, cleaner, and more reminicient of early 2010's web design.
 >
 > ### markaic.
-> ###### markdown (the easiest way to write code) + archaic (the easiest way to theme it) = markaic, the quickest way to turn plain text into beautiful websites.
+> ###### markdown (the simple way to write sites) + archaic (the simple way to theme them) = markaic (the simple way to write and theme sites)
 >
 > ### shoeshine
 > ###### a visual site editor based on Packery and Bootstrap, that can be utilized theoretically anywhere, and practically everywhere.
