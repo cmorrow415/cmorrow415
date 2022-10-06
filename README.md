@@ -4,6 +4,9 @@
 ***
 
 ## what i'm working on:
+> ### <a href="https://github.com/palindromei/outwards/">Outwards</a>
+> ###### a quirky, variable, modular font based on my own handwriting
+>
 > ### <a href="https://github.com/palindromei/typesites/">TypeSites</a>
 > ###### typesites turns fully formatted word documents into beautiful, responsive websites.
 >
