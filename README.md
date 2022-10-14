@@ -7,11 +7,14 @@
 > ### <a href="https://github.com/palindromei/outwards/">Outwards</a>
 > ###### a quirky, variable, modular font based on my own handwriting
 >
+> ### altSPACE
+> ###### a lightweight search bar and command deck for any application. just hit alt+space
+>
+> ### unbox
+> ###### an add-in for outlook that rethinks the way you use your email.
+>
 > ### <a href="https://github.com/palindromei/typesites/">TypeSites</a>
 > ###### typesites turns fully formatted word documents into beautiful, responsive websites.
->
->### \*wallhop
->##### a real time, ad-free, fully customizable social network, designed around the human. build a site, add your interests, talk to others.
 >
 > ### <a href="https://github.com/palindromei/archaic/">archaic.</a>
 > ###### a modern, lightweight toolkit for HTML and CSS that expands upon the features of Bootstrap and supercharges frontend development, all while making it look nicer, cleaner, and more reminicient of early 2010's web design.
