@@ -4,35 +4,32 @@
 ***
 
 ## what i'm working on:
-> ### <a href="https://github.com/palindromei/outwards/">Outwards</a>
-> ###### a quirky, variable, modular font based on my own handwriting
+> ### Outwards
+> ###### a quirky, variable, modular font based on my own handwriting.
 >
-> ### altSPACE
-> ###### a lightweight search bar and command deck for any application. just hit alt+space
+> ### AltSpace
+> ###### a lightweight search bar and command deck for any application. just hit alt+space.
 >
-> ### unbox
+> ### Unbox
 > ###### an add-in for outlook that rethinks the way you use your email.
 >
-> ### <a href="https://github.com/palindromei/typesites/">TypeSites</a>
+> ### TypeSites
 > ###### typesites turns fully formatted word documents into beautiful, responsive websites.
 >
-> ### <a href="https://github.com/palindromei/archaic/">archaic.</a>
+> ### Archaic.
 > ###### a modern, lightweight toolkit for HTML and CSS that expands upon the features of Bootstrap and supercharges frontend development, all while making it look nicer, cleaner, and more reminicient of early 2010's web design.
 >
-> ### markaic.
-> ###### markdown (the simple way to write sites) + archaic (the simple way to theme them) = markaic (the simple way to write and theme sites)
+> ### Markaic.
+> ###### markdown (the simple way to write sites) + archaic (the simple way to theme them) = markaic (the simple way to write and theme sites).
 >
-> ### shoeshine
+> ### Shoeshine
 > ###### a visual site editor based on Packery and Bootstrap, that can be utilized theoretically anywhere, and practically everywhere.
 >
-> ### pager
-> ###### a framework for building basic social networking sites, and fast. built using Node.JS and archaic/Bootstrap
+> ### Pager
+> ###### a framework for building basic social networking sites, and fast. built using Node.JS and archaic/Bootstrap.
 >
-> ### cobalt
+> ### Cobalt
 > ###### a library of modular, customizable gadgets that can be used to enhance the functionality of pre-existing sites. also, it's a framework for building your own modular gadgets.
 >
-> ### //doubleslash
+> ### Doubleslash
 > ###### a system of shortcodes that give pre-existing sites the ability to dynamically interface and communicate with other, preexisting sites.
->
-> ### compatibility index
-> ###### an algorithm that can determine the similarities between two groups of various datasets, on a score from 0 to 100.
