@@ -5,7 +5,7 @@
 
 ## what i'm working on:
 > ### Archaic.
-> ###### a modern, lightweight stylesheet built on LESS, tha makes websites look nicer, cleaner, and more reminicient of early 2010's web design.
+> ###### a modern, lightweight stylesheet built on LESS, that makes websites look nicer, cleaner, and more reminicient of early 2010's web design.
 > 
 > ### Outwards
 > ###### a quirky, variable, modular font based on my own handwriting.
