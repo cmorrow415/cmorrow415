@@ -4,6 +4,9 @@
 ***
 
 ## what i'm working on:
+> ### Archaic.
+> ###### a modern, lightweight stylesheet built on LESS, tha makes websites look nicer, cleaner, and more reminicient of early 2010's web design.
+> 
 > ### Outwards
 > ###### a quirky, variable, modular font based on my own handwriting.
 >
@@ -15,9 +18,6 @@
 >
 > ### TypeSites
 > ###### typesites turns fully formatted word documents into beautiful, responsive websites.
->
-> ### Archaic.
-> ###### a modern, lightweight toolkit for HTML and CSS that expands upon the features of Bootstrap and supercharges frontend development, all while making it look nicer, cleaner, and more reminicient of early 2010's web design.
 >
 > ### Markaic.
 > ###### markdown (the simple way to write sites) + archaic (the simple way to theme them) = markaic (the simple way to write and theme sites).
